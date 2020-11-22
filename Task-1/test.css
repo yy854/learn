@@ -1,0 +1,25 @@
+.div1 ul li{
+   
+    margin: 40px;
+    list-style: none;
+}
+.div2 ul li{
+    margin: 40px;
+    list-style: none;
+  
+}
+a:hover{
+    background-color: crimson;
+  }
+div{
+    float: left;
+   
+}
+.content_info img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+    position: relative;
+    left: -100px;
+}
